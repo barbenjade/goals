@@ -1,4 +1,4 @@
 ��# practice3 
-Get all files for practice.
+Get all files for practice for JS.
 
 
